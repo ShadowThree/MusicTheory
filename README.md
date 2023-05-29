@@ -1,6 +1,39 @@
 # 工具推荐
 [Musicca](https://musicca.com)
 
+# 音程
+$$
+\begin{array}{|c|c|c|}
+\hline
+{音程名} & {半音数} & {举例}\\
+\hline
+{小二度} & {1} & {B-C}\\
+\hline
+{大二度} & {2} & {A-B}\\
+\hline
+{小三度} & {3} & {A-C}\\
+\hline
+{大三度} & {4} & {C-E}\\
+\hline
+{纯四度} & {5} & {C-F}\\
+\hline
+{增四度\ or\ 减五度} & {6} & {F-B}\\
+\hline
+{纯五度} & {7} & {C-G}\\
+\hline
+{小六度} & {8} & {E-C}\\
+\hline
+{大六度} & {9} & {D-B}\\
+\hline
+{小七度} & {10} & {D-C}\\
+\hline
+{大七度} & {11} & {C-B}\\
+\hline
+{纯八度} & {12} & {C-C}\\
+\hline
+\end{array}
+$$
+
 # 和弦
 $$
 \begin{array}{|c|c|c|c|}
