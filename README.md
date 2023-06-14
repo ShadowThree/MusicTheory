@@ -88,3 +88,20 @@ $$
 \hline
 \end{array}
 $$
+
+## 音阶
+$$
+\begin{array}{|c|c|c|}
+\hline
+{音阶名称} & {音程关系} & {举例}\\
+\hline
+{自然大调} & {全-全-半-全-全-全-半} & {C-D-E-F-G-A-B-C}\\
+\hline
+{自然小调} & {全-半-全-全-半-全-全} & {C-D-E_b-F-G-A_b-B_b-C}\\
+\hline
+{和声小调} & {全-半-全-全-半-全半-半} & {C-D-E_b-F-G-A_b-B-C}\\
+\hline
+{旋律小调} & {全-半-全-全-全-全-半} & {C-D-E_b-F-G-A-B-C}\\
+\hline
+\end{array}
+$$
